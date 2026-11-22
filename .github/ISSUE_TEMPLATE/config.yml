@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Licensing & Support
+    url: mailto:support@gettaskbay.com
+    about: For licence keys, refunds, or account help, email support@gettaskbay.com.
+  - name: FAQ & Troubleshooting
+    url: https://gettaskbay.com/faq.html
+    about: Answers on permissions, Wi-Fi, Energy Mode, and uninstalling.

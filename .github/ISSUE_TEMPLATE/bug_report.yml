@@ -1,0 +1,39 @@
+name: Bug report
+description: Report unexpected behaviour or a visual glitch in TaskBay
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the issue and what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open...
+        2. Click...
+        3. See...
+  - type: input
+    id: version
+    attributes:
+      label: TaskBay version
+      placeholder: "e.g. 1.0"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version & Mac model
+      placeholder: "e.g. macOS 15.3 on MacBook Pro M3"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Diagnostic log (optional)
+      description: If you enabled Diagnostics in Settings ▸ About, paste relevant lines from ~/Library/Logs/TaskBay.log (review for sensitive app/window/network titles before sharing publicly).
