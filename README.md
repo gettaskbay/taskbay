@@ -1,29 +1,72 @@
-# TaskBay
+<div align="center">
+  <img src="assets/icon.png" alt="TaskBay icon" width="88" height="88">
+  <h1>TaskBay</h1>
+  <p><strong>All-in-one taskbar for macOS</strong></p>
+  <p>
+    <a href="https://gettaskbay.com">Website</a> ·
+    <a href="https://github.com/gettaskbay/taskbay/releases">Releases</a> ·
+    <a href="https://github.com/gettaskbay/taskbay/issues/new?template=feature_request.yml">Feature Request</a> ·
+    <a href="https://github.com/gettaskbay/taskbay/issues/new?template=bug_report.yml">Bug Report</a> ·
+    <a href="https://gettaskbay.com/faq">FAQ</a>
+  </p>
+  <p><sub>macOS 14.0 Sonoma or later · Apple Silicon &amp; Intel · Runs locally with no telemetry</sub></p>
+</div>
 
-**All-in-one taskbar for macOS.**
+<br>
 
-TaskBay gives every open window on your Mac a dedicated taskbar button, with pinned app groups and spacers, live window previews, Peek, a visual window switcher (`⌘-Tab` replacement), multi-session media controls, and system tray flyouts on any edge of any display.
-
-- **Website:** https://gettaskbay.com
-- **Downloads:** [Latest Releases](https://github.com/gettaskbay/taskbay/releases)
-- **Bug reports & feature requests:** [Open an issue](https://github.com/gettaskbay/taskbay/issues/new/choose)
-- **Support & licensing:** support@gettaskbay.com
+![TaskBay live window previews and grouped taskbar](assets/previews.jpg)
 
 ---
 
-## Requirements
+## Highlights
 
-- macOS 14.0 (Sonoma) or later
-- Apple Silicon (M-series) or Intel Mac
-- **Accessibility** permission (required to list and control application windows)
+- **Per-window taskbar buttons:** Give every open window its own button alongside pinned apps, grouped stacks, and recent-document jump lists.
+- **Live previews and Peek:** Hover any taskbar button for live thumbnail previews with quick Minimize, Close, and Quit actions, or keep a live window floating on top.
+- **Visual window switcher:** Replace standard `⌘-Tab` switching with a keyboard-driven Cover Flow and desktop Spaces switcher.
+- **System tray and interactive flyouts:** Access calendar events, multi-session media controls, Wi-Fi networks, Bluetooth battery levels, volume, and Trash status directly from the bar.
+- **Flexible edges and styling:** Place TaskBay on the bottom, top, left, or right edge of one display or all displays, with auto-hide, multi-row scaling, and frosted glass presets.
+
+---
+
+## Gallery
+
+| Window Switcher &amp; Spaces | Multi-Session Media Flyout |
+| :---: | :---: |
+| ![Cover Flow window switcher and desktop Spaces](assets/switcher.jpg) | ![Multi-session media flyout and system tray](assets/media.jpg) |
+| **Pinned Groups, Links &amp; Spacers** | **Multi-Row Sizing &amp; Tray Divider** |
+| ![Pinned quick links, spacers, and context controls](assets/quicklinks.jpg) | ![Multi-row layout and resizable tray separator](assets/taskbar-sizing.jpg) |
+
+---
 
 ## Installation
 
 1. Download the latest `TaskBay.dmg` from [Releases](https://github.com/gettaskbay/taskbay/releases) or [gettaskbay.com](https://gettaskbay.com).
 2. Drag **TaskBay** into **Applications**.
-3. Open **TaskBay** and follow the setup guide to allow Accessibility access.
+3. Open **TaskBay** and follow the onboarding walkthrough to grant **Accessibility** access.
 
-## Troubleshooting & Privacy
+**Requirements:** macOS 14.0 (Sonoma) or later on Apple Silicon or Intel.
 
-- Answers to common questions, permissions, Wi-Fi keychain items, and uninstall instructions are listed at [gettaskbay.com/faq.html](https://gettaskbay.com/faq.html).
-- TaskBay runs locally on your Mac with no telemetry or account required. See [gettaskbay.com/privacy.html](https://gettaskbay.com/privacy.html).
+---
+
+## Permissions
+
+TaskBay inspects your Mac locally and makes no analytics or tracking connections.
+
+| Permission | Status | Purpose |
+| :--- | :--- | :--- |
+| **Accessibility** | Required | List open windows, focus, minimize, close, move/resize, and read Dock badges |
+| **Screen Recording** | Optional | Live window hover previews, Peek, and Always-on-Top window mirrors |
+| **Calendars** | Optional | Display upcoming calendar events in the tray flyout |
+| **Location Services** | Optional | Required by macOS to show current and nearby Wi-Fi network names |
+| **Bluetooth** | Optional | Show battery levels for connected audio accessories in the Sound flyout |
+| **Automation** | Optional | Media transport controls, Trash empty, and sleep/restart/log-out actions |
+| **Full Disk Access** | Optional | Display exact Trash item counts and size |
+
+---
+
+## Licence, Privacy &amp; Feedback
+
+- **Licence:** 14-day free trial with full features, no card required; **$15 one-time** purchase with all updates included. See [Terms &amp; Licence](https://gettaskbay.com/terms).
+- **Privacy:** Zero telemetry or accounts. Full details in the [Privacy Policy](https://gettaskbay.com/privacy) and [FAQ](https://gettaskbay.com/faq).
+- **Feedback:** [Request a feature](https://github.com/gettaskbay/taskbay/issues/new?template=feature_request.yml) or [Report a bug](https://github.com/gettaskbay/taskbay/issues/new?template=bug_report.yml).
+- **Support:** [support@gettaskbay.com](mailto:support@gettaskbay.com)
