@@ -1,13 +1,14 @@
 <div align="center">
   <img src="assets/icon.png" alt="TaskBay icon" width="88" height="88">
   <h1>TaskBay</h1>
-  <p><strong>All-in-one taskbar for macOS</strong></p>
+  <p><strong>Modern, native macOS taskbar</strong></p>
   <p>
     <a href="https://gettaskbay.com">Website</a> ·
     <a href="https://github.com/gettaskbay/taskbay/releases">Releases</a> ·
     <a href="https://github.com/gettaskbay/taskbay/issues/new?template=feature_request.yml">Feature Request</a> ·
     <a href="https://github.com/gettaskbay/taskbay/issues/new?template=bug_report.yml">Bug Report</a> ·
-    <a href="https://gettaskbay.com/faq">FAQ</a>
+    <a href="https://gettaskbay.com/faq">FAQ</a> ·
+    <a href="https://gettaskbay.com/support">Support</a>
   </p>
   <p><sub>macOS 14.0 Sonoma or later · Apple Silicon &amp; Intel · Runs locally with no telemetry</sub></p>
 </div>
@@ -23,7 +24,7 @@
 - **Per-window taskbar buttons:** Give every open window its own button alongside pinned apps, grouped stacks, and recent-document jump lists.
 - **Live previews and Peek:** Hover any taskbar button for live thumbnail previews with quick Minimize, Close, and Quit actions, or keep a live window floating on top.
 - **Visual window switcher:** Replace standard `⌘-Tab` switching with a keyboard-driven Cover Flow and desktop Spaces switcher.
-- **System tray and interactive flyouts:** Access calendar events, multi-session media controls, Wi-Fi networks, Bluetooth battery levels, volume, and Trash status directly from the bar.
+- **System tray and interactive flyouts:** Access calendar events, multi-session media controls, Wi-Fi networks, Bluetooth battery levels, volume, and Trash status directly from the taskbar.
 - **Flexible edges and styling:** Place TaskBay on the bottom, top, left, or right edge of one display or all displays, with auto-hide, multi-row scaling, and frosted glass presets.
 
 ---
@@ -66,7 +67,7 @@ TaskBay inspects your Mac locally and makes no analytics or tracking connections
 
 ## Licence, Privacy &amp; Feedback
 
-- **Licence:** 14-day free trial with full features, no card required; **$15 one-time** purchase with all updates included. See [Terms &amp; Licence](https://gettaskbay.com/terms).
+- **Licence:** 14-day free trial with full features, no card required; **$15 one-time** purchase for up to 3 Macs with all updates included. See [Terms &amp; Licence](https://gettaskbay.com/terms).
 - **Privacy:** Zero telemetry or accounts. Full details in the [Privacy Policy](https://gettaskbay.com/privacy) and [FAQ](https://gettaskbay.com/faq).
 - **Feedback:** [Request a feature](https://github.com/gettaskbay/taskbay/issues/new?template=feature_request.yml) or [Report a bug](https://github.com/gettaskbay/taskbay/issues/new?template=bug_report.yml).
-- **Support:** [support@gettaskbay.com](mailto:support@gettaskbay.com)
+- **Support:** [gettaskbay.com/support](https://gettaskbay.com/support) or [support@gettaskbay.com](mailto:support@gettaskbay.com)
