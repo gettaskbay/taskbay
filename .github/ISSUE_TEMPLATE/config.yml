@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Feedback & Bug Reports
+  - name: Feedback & Issue Reports
     url: https://gettaskbay.com/feedback
-    about: Request features, upvote ideas, and report bugs with screenshots or logs (no account needed).
+    about: Request features, upvote ideas, and report issues with screenshots or logs (no account needed).
   - name: Licensing & Private Support
     url: https://gettaskbay.com/support
     about: For licence keys, refunds, or private TaskBay.log reports.

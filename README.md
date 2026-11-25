@@ -6,7 +6,7 @@
     <a href="https://gettaskbay.com">Website</a> ·
     <a href="https://github.com/gettaskbay/taskbay/releases">Releases</a> ·
     <a href="https://gettaskbay.com/feedback?type=feature">Feature Request</a> ·
-    <a href="https://gettaskbay.com/feedback?type=bug">Bug Report</a> ·
+    <a href="https://gettaskbay.com/feedback?type=issue">Report an Issue</a> ·
     <a href="https://gettaskbay.com/faq">FAQ</a> ·
     <a href="https://gettaskbay.com/support">Support</a>
   </p>
@@ -69,5 +69,5 @@ TaskBay inspects your Mac locally and makes no analytics or tracking connections
 
 - **Licence:** 14-day free trial with full features, no card required; **$15 one-time** purchase for up to 3 Macs with all updates included. See [Terms &amp; Licence](https://gettaskbay.com/terms).
 - **Privacy:** Zero telemetry or accounts. Full details in the [Privacy Policy](https://gettaskbay.com/privacy) and [FAQ](https://gettaskbay.com/faq).
-- **Feedback:** [Request a feature](https://gettaskbay.com/feedback?type=feature) or [Report a bug](https://gettaskbay.com/feedback?type=bug) on the Feedback board (no account needed).
+- **Feedback:** [Request a feature](https://gettaskbay.com/feedback?type=feature) or [Report an issue](https://gettaskbay.com/feedback?type=issue) on the Feedback board (no account needed).
 - **Support:** [gettaskbay.com/support](https://gettaskbay.com/support) or [support@gettaskbay.com](mailto:support@gettaskbay.com)
